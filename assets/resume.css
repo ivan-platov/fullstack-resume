@@ -264,5 +264,5 @@ a[download] { text-decoration: none; }
 [data-qa="resume-languages-block"] .magritte-tag_size-medium___Splpy_5-5-0_xhh { max-width: 100%; }
 [data-qa="resume-block-language-item"] [title] { max-width: none; white-space: normal; overflow-wrap: anywhere; }
 @media (max-width: 370px) {
-  [data-qa="resume-main-info__content-wrapper"] { flex-direction: column; align-items: flex-start; }
+  [data-qa="main-content"] [data-qa="resume-main-info__content-wrapper"].horizontal-layout--es8a8D2ZjMZyfjtw { flex-direction: column; align-items: flex-start; }
 }
